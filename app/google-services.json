@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212329766",
+    "firebase_url": "https://orct-abf3e.firebaseio.com",
+    "project_id": "orct-abf3e",
+    "storage_bucket": "orct-abf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212329766:android:079c327a86ca7eb2fc4de7",
+        "android_client_info": {
+          "package_name": "com.bbs.mr.orct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212329766-384el2e6bbp6vvp9m673p3tj256bvukd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bbs.mr.orct",
+            "certificate_hash": "02a7f46e9b8f8020720b2bae81d65cf727ab331b"
+          }
+        },
+        {
+          "client_id": "212329766-hm8fb946i65avg2ef1hgn7lsagss8d87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8l2Kn8JC-4VO05E9-_7Wy9MqgYvl2F4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212329766-hm8fb946i65avg2ef1hgn7lsagss8d87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
